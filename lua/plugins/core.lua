@@ -98,4 +98,10 @@ return {
       })
     end,
   },
+
+  {
+    "andweeb/presence.nvim",
+    event = "VeryLazy",
+    opts = {},
+  },
 }

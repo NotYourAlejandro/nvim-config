@@ -1,6 +1,6 @@
 local opt = vim.opt
 
-opt.relativenumber = false
+opt.relativenumber = true
 
 opt.tabstop = 4
 opt.shiftwidth = 4

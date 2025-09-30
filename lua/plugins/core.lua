@@ -65,6 +65,7 @@ return {
         "markdown_inline",
         "python",
         "query",
+        "racket",
         "regex",
         "scheme",
         "tsx",
@@ -103,5 +104,10 @@ return {
     "andweeb/presence.nvim",
     event = "VeryLazy",
     opts = {},
+  },
+
+  {
+    "wlangstroth/vim-racket",
+    ft = { "racket" },
   },
 }
